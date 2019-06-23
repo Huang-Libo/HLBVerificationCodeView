@@ -1,6 +1,6 @@
 //
 //  HLBVerificationCodeView.h
-//  HLBVerificationCodeViewDemo.xcodeproj HLBVerificationCodeView
+//  HLBVerificationCodeView
 //
 //  Created by HuangLibo on 2019/6/23.
 //  Copyright © 2019 HuangLibo. All rights reserved.
